@@ -21,8 +21,8 @@ To write a Java program that defines a class Calculator with one non-static meth
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: Adhithya Perumal D
-RegisterNumber: 212222230007
+Developed by: Thilakeswaran KP
+RegisterNumber: 212223230232
 */
 ```
 

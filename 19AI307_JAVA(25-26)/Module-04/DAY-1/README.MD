@@ -19,8 +19,8 @@ To handle a NullPointerException when performing operations on a null string in 
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: Adhithya Perumal D
-RegisterNumber:212223040084
+Developed by: Thilakeswaran KP
+RegisterNumber: 212223230232
 */
 ```
 
